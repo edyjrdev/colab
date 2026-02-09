@@ -1,2 +1,2 @@
-# colab
-google colab
+# Google Colab - Git
+Repositório conecato ao Google Colab.
